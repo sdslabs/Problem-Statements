@@ -9,6 +9,7 @@ The best way to learn a technology is to get your hands dirty building something
 * [JavaScript](https://github.com/sdslabs/Problem-Statements/blob/main/JavaScript.md)
 * [Backend](https://github.com/sdslabs/Problem-Statements/blob/main/Backend.md)
 * [MVC](https://github.com/sdslabs/Problem-Statements/blob/main/MVC.md)
+* [Networking](https://github.com/sdslabs/Problem-Statements/blob/main/Networking.md)
 
 **Design Problem Statements :**
 
