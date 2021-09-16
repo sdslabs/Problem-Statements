@@ -4,7 +4,7 @@ The best way to learn a technology is to get your hands dirty building something
 
 **Development Problem Statements :**
 
-* [Git](https://github.com/sdslabs/Problem-Statements/blob/main/Git.md)
+* [Git Bash](https://github.com/sdslabs/Problem-Statements/blob/main/Git.md)
 * [HTML/CSS](https://github.com/sdslabs/Problem-Statements/blob/main/HTMLCSS.md)
 * [JavaScript](https://github.com/sdslabs/Problem-Statements/blob/main/JavaScript.md)
 * [Backend](https://github.com/sdslabs/Problem-Statements/blob/main/Backend.md)
