@@ -1,4 +1,4 @@
-# Git Problem Statement
+# Git Bash Problem Statement
 
 The problem statement for Git is divided into 3 tasks:
 
